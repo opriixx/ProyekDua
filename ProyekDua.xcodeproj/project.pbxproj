@@ -35,14 +35,14 @@
 			path = ProyekDua;
 			sourceTree = "<group>";
 		};
-		0DC03C8C2F961ED70079EFB2 /* Challenge1Tests */ = {
+		0DC03C8C2F961ED70079EFB2 /* ProyekDuaTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Challenge1Tests;
+			path = ProyekDuaTests;
 			sourceTree = "<group>";
 		};
-		0DC03C962F961ED70079EFB2 /* Challenge1UITests */ = {
+		0DC03C962F961ED70079EFB2 /* ProyekDuaUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Challenge1UITests;
+			path = ProyekDuaUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -76,8 +76,8 @@
 			isa = PBXGroup;
 			children = (
 				0DC03C7E2F961ED60079EFB2 /* ProyekDua */,
-				0DC03C8C2F961ED70079EFB2 /* Challenge1Tests */,
-				0DC03C962F961ED70079EFB2 /* Challenge1UITests */,
+				0DC03C8C2F961ED70079EFB2 /* ProyekDuaTests */,
+				0DC03C962F961ED70079EFB2 /* ProyekDuaUITests */,
 				0DC03C7D2F961ED60079EFB2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -131,7 +131,7 @@
 				0DC03C8B2F961ED70079EFB2 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				0DC03C8C2F961ED70079EFB2 /* Challenge1Tests */,
+				0DC03C8C2F961ED70079EFB2 /* ProyekDuaTests */,
 			);
 			name = ProyekDuaTests;
 			packageProductDependencies = (
@@ -154,7 +154,7 @@
 				0DC03C952F961ED70079EFB2 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				0DC03C962F961ED70079EFB2 /* Challenge1UITests */,
+				0DC03C962F961ED70079EFB2 /* ProyekDuaUITests */,
 			);
 			name = ProyekDuaUITests;
 			packageProductDependencies = (
