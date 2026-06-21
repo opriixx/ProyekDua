@@ -24,15 +24,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0DC03C7C2F961ED60079EFB2 /* Challenge1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Challenge1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0DC03C892F961ED70079EFB2 /* Challenge1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Challenge1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		0DC03C932F961ED70079EFB2 /* Challenge1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Challenge1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DC03C7C2F961ED60079EFB2 /* ProyekDua.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProyekDua.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DC03C892F961ED70079EFB2 /* ProyekDuaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProyekDuaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DC03C932F961ED70079EFB2 /* ProyekDuaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProyekDuaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0DC03C7E2F961ED60079EFB2 /* Challenge1 */ = {
+		0DC03C7E2F961ED60079EFB2 /* ProyekDua */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Challenge1;
+			path = ProyekDua;
 			sourceTree = "<group>";
 		};
 		0DC03C8C2F961ED70079EFB2 /* Challenge1Tests */ = {
@@ -75,7 +75,7 @@
 		0DC03C732F961ED60079EFB2 = {
 			isa = PBXGroup;
 			children = (
-				0DC03C7E2F961ED60079EFB2 /* Challenge1 */,
+				0DC03C7E2F961ED60079EFB2 /* ProyekDua */,
 				0DC03C8C2F961ED70079EFB2 /* Challenge1Tests */,
 				0DC03C962F961ED70079EFB2 /* Challenge1UITests */,
 				0DC03C7D2F961ED60079EFB2 /* Products */,
@@ -85,9 +85,9 @@
 		0DC03C7D2F961ED60079EFB2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0DC03C7C2F961ED60079EFB2 /* Challenge1.app */,
-				0DC03C892F961ED70079EFB2 /* Challenge1Tests.xctest */,
-				0DC03C932F961ED70079EFB2 /* Challenge1UITests.xctest */,
+				0DC03C7C2F961ED60079EFB2 /* ProyekDua.app */,
+				0DC03C892F961ED70079EFB2 /* ProyekDuaTests.xctest */,
+				0DC03C932F961ED70079EFB2 /* ProyekDuaUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0DC03C7B2F961ED60079EFB2 /* Challenge1 */ = {
+		0DC03C7B2F961ED60079EFB2 /* ProyekDua */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DC03C9D2F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "Challenge1" */;
+			buildConfigurationList = 0DC03C9D2F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "ProyekDua" */;
 			buildPhases = (
 				0DC03C782F961ED60079EFB2 /* Sources */,
 				0DC03C792F961ED60079EFB2 /* Frameworks */,
@@ -108,18 +108,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0DC03C7E2F961ED60079EFB2 /* Challenge1 */,
+				0DC03C7E2F961ED60079EFB2 /* ProyekDua */,
 			);
-			name = Challenge1;
+			name = ProyekDua;
 			packageProductDependencies = (
 			);
 			productName = Challenge1;
-			productReference = 0DC03C7C2F961ED60079EFB2 /* Challenge1.app */;
+			productReference = 0DC03C7C2F961ED60079EFB2 /* ProyekDua.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0DC03C882F961ED70079EFB2 /* Challenge1Tests */ = {
+		0DC03C882F961ED70079EFB2 /* ProyekDuaTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DC03CA02F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "Challenge1Tests" */;
+			buildConfigurationList = 0DC03CA02F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "ProyekDuaTests" */;
 			buildPhases = (
 				0DC03C852F961ED70079EFB2 /* Sources */,
 				0DC03C862F961ED70079EFB2 /* Frameworks */,
@@ -133,16 +133,16 @@
 			fileSystemSynchronizedGroups = (
 				0DC03C8C2F961ED70079EFB2 /* Challenge1Tests */,
 			);
-			name = Challenge1Tests;
+			name = ProyekDuaTests;
 			packageProductDependencies = (
 			);
 			productName = Challenge1Tests;
-			productReference = 0DC03C892F961ED70079EFB2 /* Challenge1Tests.xctest */;
+			productReference = 0DC03C892F961ED70079EFB2 /* ProyekDuaTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0DC03C922F961ED70079EFB2 /* Challenge1UITests */ = {
+		0DC03C922F961ED70079EFB2 /* ProyekDuaUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DC03CA32F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "Challenge1UITests" */;
+			buildConfigurationList = 0DC03CA32F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "ProyekDuaUITests" */;
 			buildPhases = (
 				0DC03C8F2F961ED70079EFB2 /* Sources */,
 				0DC03C902F961ED70079EFB2 /* Frameworks */,
@@ -156,11 +156,11 @@
 			fileSystemSynchronizedGroups = (
 				0DC03C962F961ED70079EFB2 /* Challenge1UITests */,
 			);
-			name = Challenge1UITests;
+			name = ProyekDuaUITests;
 			packageProductDependencies = (
 			);
 			productName = Challenge1UITests;
-			productReference = 0DC03C932F961ED70079EFB2 /* Challenge1UITests.xctest */;
+			productReference = 0DC03C932F961ED70079EFB2 /* ProyekDuaUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0DC03C772F961ED60079EFB2 /* Build configuration list for PBXProject "Challenge1" */;
+			buildConfigurationList = 0DC03C772F961ED60079EFB2 /* Build configuration list for PBXProject "ProyekDua" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0DC03C7B2F961ED60079EFB2 /* Challenge1 */,
-				0DC03C882F961ED70079EFB2 /* Challenge1Tests */,
-				0DC03C922F961ED70079EFB2 /* Challenge1UITests */,
+				0DC03C7B2F961ED60079EFB2 /* ProyekDua */,
+				0DC03C882F961ED70079EFB2 /* ProyekDuaTests */,
+				0DC03C922F961ED70079EFB2 /* ProyekDuaUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		0DC03C8B2F961ED70079EFB2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0DC03C7B2F961ED60079EFB2 /* Challenge1 */;
+			target = 0DC03C7B2F961ED60079EFB2 /* ProyekDua */;
 			targetProxy = 0DC03C8A2F961ED70079EFB2 /* PBXContainerItemProxy */;
 		};
 		0DC03C952F961ED70079EFB2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0DC03C7B2F961ED60079EFB2 /* Challenge1 */;
+			target = 0DC03C7B2F961ED60079EFB2 /* ProyekDua */;
 			targetProxy = 0DC03C942F961ED70079EFB2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -467,7 +467,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Challenge1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Challenge1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProyekDua.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ProyekDua";
 			};
 			name = Debug;
 		};
@@ -488,7 +488,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Challenge1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Challenge1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProyekDua.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ProyekDua";
 			};
 			name = Release;
 		};
@@ -533,7 +533,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0DC03C772F961ED60079EFB2 /* Build configuration list for PBXProject "Challenge1" */ = {
+		0DC03C772F961ED60079EFB2 /* Build configuration list for PBXProject "ProyekDua" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DC03C9B2F961ED70079EFB2 /* Debug */,
@@ -542,7 +542,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DC03C9D2F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "Challenge1" */ = {
+		0DC03C9D2F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "ProyekDua" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DC03C9E2F961ED70079EFB2 /* Debug */,
@@ -551,7 +551,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DC03CA02F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "Challenge1Tests" */ = {
+		0DC03CA02F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "ProyekDuaTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DC03CA12F961ED70079EFB2 /* Debug */,
@@ -560,7 +560,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DC03CA32F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "Challenge1UITests" */ = {
+		0DC03CA32F961ED70079EFB2 /* Build configuration list for PBXNativeTarget "ProyekDuaUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DC03CA42F961ED70079EFB2 /* Debug */,
